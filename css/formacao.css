@@ -18,7 +18,8 @@
     display: block;
     width: 130px;
     height: 100px;
-    background: url(../img/detalhe.svg);
+    position: absolute;
+    background: url(../img/detalhe.svg) no-repeat center;
     bottom: -50px;
     left:20px;
 }
